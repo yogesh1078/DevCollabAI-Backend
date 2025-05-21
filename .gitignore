@@ -1,0 +1,44 @@
+# === Node Modules ===
+node_modules/
+
+# === Logs ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Environment Files ===
+.env
+.env.*.local
+
+# === Build Output ===
+dist/
+build/
+
+# === OS Specific ===
+.DS_Store
+Thumbs.db
+
+# === IDE Specific ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# === Coverage Reports ===
+coverage/
+
+# === Temp Files ===
+tmp/
+temp/
+
+# === MongoDB Dumps ===
+dump/
+*.mongodb
+
+# === Misc Archives ===
+*.tgz
+*.gz
+*.zip
