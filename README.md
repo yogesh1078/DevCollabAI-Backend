@@ -107,9 +107,6 @@ Server runs on the port specified in `.env` (defaults to 3000).
 
 The backend can be deployed to any Node.js-compatible hosting. Environment variables must be set appropriately. [Demo Home Page](https://devcollabai-backend.onrender.com)
 
-## License
-
-This project currently has **no license** specified. Please contact the repository owner for usage terms.
 
 ---
 
